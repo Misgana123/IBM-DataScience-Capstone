@@ -3,7 +3,7 @@ name = "ibm-data-science-capstone"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "Martin Walsh", email = "1520570+martinwalsh@users.noreply.github.com" }
+    { name = "Misgana Wokrineh", email = "misganaworkineh2011@gmail.com" }
 ]
 dependencies = [
     "jupyter>=1.0.0",
